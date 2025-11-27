@@ -131,14 +131,14 @@ java -jar target/IFOBIA-v1.0.jar
 
 #### For Students:
 ```
-Username: mahasiswa_demo
-Password: demo123
+Username: check the sql file
+Password: check the sql file
 ```
 
 #### For Course Representatives (PJ):
 ```
-Username: pj_demo
-Password: demo123
+Username: check the sql file
+Password: check the sql file
 ```
 
 ### Quick Start Guide
@@ -150,8 +150,6 @@ Password: demo123
    - 📝 Assignments
    - 📢 Announcements
 4. **PJ users** can access **Kelola Kelas** for administrative tasks
-
-For detailed usage instructions, see our [User Manual](docs/USER_MANUAL.md).
 
 ---
 
@@ -179,9 +177,9 @@ For detailed usage instructions, see our [User Manual](docs/USER_MANUAL.md).
 
 | Name | NPM | Role | GitHub |
 |------|-----|------|--------|
-| **Alia Hamzah** | 2410631170006 | 💻 Java Developer | [@aliahamzah](#) |
+| **Alia Hamzah** | 2410631170006 | 💻 Java Developer | [@aliaaa909](https://github.com/aliaaa909) |
 | **Andhika Eka Pratama** | 2410631170129 | 🎨 GUI Designer | [@andhikaeka](#) |
-| **Andhika Subagja** | 2410631170008 | 🗄️ Data Engineer | [@andhikasubagja](#) |
+| **Andhika Subagja** | 2410631170008 | 🗄️ Data Engineer | [@Andhikasubagja1b](https://github.com/Andhikasubagja1b) |
 | **Muhammad Rizky Dermawan** | 2410631170038 | 🚀 Project Lead | [@dermawannnn99](https://github.com/dermawannnn99) |
 
 </div>
@@ -261,7 +259,7 @@ IFOBIA-v1.0/
 | `ifobia_db_pengumuman` | Class announcements |
 | `ifobia_db_absensi` | Attendance records |
 
-For detailed schema, see [Database Documentation](docs/DATABASE.md).
+For detailed schema, check teh SQL file.
 
 ---
 
@@ -334,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- 👨‍🏫 **Yuyun Umaidah, M.Kom** - Project Supervisor
+- 👨‍🏫 **Yuyun Umaidah, M.Kom** - Supporting Lecturer
 - 🏫 **Universitas Singaperbangsa Karawang** - Fakultas Ilmu Komputer
 - 💡 Inspired by the need for better academic information management
 - 🎓 Class B Informatics 2024 - For valuable feedback and testing
