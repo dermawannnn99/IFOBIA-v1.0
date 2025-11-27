@@ -223,19 +223,66 @@ Password: check the sql file
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Login Screen
-![Login](https://via.placeholder.com/800x500/2C3E50/FFFFFF?text=Login+Screen)
+## 🌙 Light & Dark Mode Support
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x500/34495E/FFFFFF?text=Dashboard)
+---
 
-### Assignment Management
-![Assignments](https://via.placeholder.com/800x500/16A085/FFFFFF?text=Assignment+Tracking)
+## 🔐 Login Screen
+<div align="center">
 
-### Material Repository
-![Materials](https://via.placeholder.com/800x500/2980B9/FFFFFF?text=Learning+Materials)
+**Light Mode** | **Dark Mode**  
+--- | ---  
+[Show Image](LINK_GAMBAR_LOGIN_LIGHT) | [Show Image](LINK_GAMBAR_LOGIN_DARK)  
+
+Secure authentication with **role-based access control**.
+
+</div>
+
+---
+
+## 📊 Dashboard
+<div align="center">
+
+**Light Mode** | **Dark Mode**  
+--- | ---  
+[Show Image](LINK_GAMBAR_DASHBOARD_LIGHT) | [Show Image](LINK_GAMBAR_DASHBOARD_DARK)  
+
+Centralized view of **schedules**, **assignments**, and **announcements**.
+
+</div>
+
+---
+
+## 📝 Kelola Tugas (Assignment Management)
+<div align="center">
+
+**Light Mode** | **Dark Mode**  
+--- | ---  
+[Show Image](LINK_GAMBAR_ASSIGNMENT_LIGHT) | [Show Image](LINK_GAMBAR_ASSIGNMENT_DARK)  
+
+Comprehensive assignment management for **course representatives**.
+
+</div>
+
+---
+
+## 🎨 More Screenshots
+<div align="center">
+
+📂 **For complete GUI design preview, visit:**  
+🖼️ **[View All GUI Designs →](https://github.com/aliaaa909/IFOBIA-v1.0/tree/a77f058060609da1986863562a373bc19278bd84/GUI%20DESIGN%20IFOBIA)**
+
+Explore detailed wireframes and mockups for features including:
+
+- 📚 Material Repository  
+- 📢 Announcements  
+- ✅ Attendance Management  
+- 📅 Schedule Management  
+- 🎨 And more...
+
+</div>
 
 ---
 
