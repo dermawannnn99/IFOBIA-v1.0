@@ -232,9 +232,11 @@ Password: check the sql file
 ## 🔐 Login Screen
 <div align="center">
 
-**Light Mode** | **Dark Mode**  
---- | ---  
-[Show Image](https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/59b92d88c8c03c21c88d44b88a14136fbb1c3eac/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png) | [Show Image](https://github.com/aliaaa909/IFOBIA-v1.0/blob/59b92d88c8c03c21c88d44b88a14136fbb1c3eac/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png)  
+### Light Mode
+<img src="https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png" width="500">
+
+### Dark Mode
+<img src="https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA/LOGIN/DARK.png" width="500">
 
 Secure authentication with **role-based access control**.
 
@@ -245,9 +247,11 @@ Secure authentication with **role-based access control**.
 ## 📊 Dashboard
 <div align="center">
 
-**Light Mode** | **Dark Mode**  
---- | ---  
-[Show Image](LINK_GAMBAR_DASHBOARD_LIGHT) | [Show Image](LINK_GAMBAR_DASHBOARD_DARK)  
+### Light Mode
+<img src="https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA/DASHBOARD/LIGHT.png" width="500">
+
+### Dark Mode
+<img src="https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA/DASHBOARD/DARK.png" width="500">
 
 Centralized view of **schedules**, **assignments**, and **announcements**.
 
@@ -258,9 +262,11 @@ Centralized view of **schedules**, **assignments**, and **announcements**.
 ## 📝 Kelola Tugas (Assignment Management)
 <div align="center">
 
-**Light Mode** | **Dark Mode**  
---- | ---  
-[Show Image](LINK_GAMBAR_ASSIGNMENT_LIGHT) | [Show Image](LINK_GAMBAR_ASSIGNMENT_DARK)  
+### Light Mode
+<img src="https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA/TUGAS/LIGHT.png" width="500">
+
+### Dark Mode
+<img src="https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA/TUGAS/DARK.png" width="500">
 
 Comprehensive assignment management for **course representatives**.
 
@@ -269,20 +275,16 @@ Comprehensive assignment management for **course representatives**.
 ---
 
 ## 🎨 More Screenshots
-<div align="left">
 
 📂 **For complete GUI design preview, visit:**  
-🖼️ **[View All GUI Designs →](https://github.com/aliaaa909/IFOBIA-v1.0/tree/a77f058060609da1986863562a373bc19278bd84/GUI%20DESIGN%20IFOBIA)**
+🖼️ **[View All GUI Designs →](https://github.com/aliaaa909/IFOBIA-v1.0/tree/7bb6fed2f4c69ee67e94a11c9ebb98f209532542/GUI%20DESIGN%20IFOBIA)**
 
 Explore detailed wireframes and mockups for features including:
-
 - 📚 Material Repository  
 - 📢 Announcements  
 - ✅ Attendance Management  
 - 📅 Schedule Management  
 - 🎨 And more...
-
-</div>
 
 ---
 
