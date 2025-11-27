@@ -234,7 +234,7 @@ Password: check the sql file
 
 **Light Mode** | **Dark Mode**  
 --- | ---  
-[Show Image](https://github.com/aliaaa909/IFOBIA-v1.0/blob/59b92d88c8c03c21c88d44b88a14136fbb1c3eac/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png) | [Show Image](https://github.com/aliaaa909/IFOBIA-v1.0/blob/59b92d88c8c03c21c88d44b88a14136fbb1c3eac/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png)  
+[Show Image](https://raw.githubusercontent.com/aliaaa909/IFOBIA-v1.0/59b92d88c8c03c21c88d44b88a14136fbb1c3eac/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png) | [Show Image](https://github.com/aliaaa909/IFOBIA-v1.0/blob/59b92d88c8c03c21c88d44b88a14136fbb1c3eac/GUI%20DESIGN%20IFOBIA/LOGIN/LIGHT.png)  
 
 Secure authentication with **role-based access control**.
 
