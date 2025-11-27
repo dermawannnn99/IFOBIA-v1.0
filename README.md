@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![IFOBIA Logo](https://github.com/dermawannnn99/IFOBIA-v1.0/blob/7f1a922a1b286c5040d1bb5a84f9f39ebeb15b4b/logo/LOGO%20UFOBUA.png)
+![IFOBIA Logo](https://github.com/aliaaa909/IFOBIA-v1.0/blob/2536f648d785913fe9661f78a290d893dc41ecb1/logo/LOGO%20UFOBUA.png)
 
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
