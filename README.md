@@ -481,7 +481,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ### ⭐ If you find this project useful, please consider giving it a star!
 
-**Made with ❤️ by Kelompok CKM CITY**
+**Made with ❤️ by Kelompok CKM CITYY**
 
 📅 **Project Timeline:** November 2025
 
