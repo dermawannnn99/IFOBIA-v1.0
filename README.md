@@ -60,6 +60,43 @@ IFOBIA addresses these challenges by providing:
 
 ---
 
+## 🏗️ OOP Implementation
+
+IFOBIA implements **Object-Oriented Programming (OOP)** principles for maintainable and scalable code.
+
+### 🎯 Four Pillars of OOP in IFOBIA
+
+| OOP Principle | Implementation in IFOBIA | Example Class/Package |
+|---------------|--------------------------|----------------------|
+| **🔒 Encapsulation** | Private attributes with public getters/setters to protect data | `com.ifobia.entity` (User, Tugas, Materi, etc.) |
+| **🧬 Inheritance** | BaseDAO class extended by all DAO classes for code reusability | `com.ifobia.dao_entity` (UserDAO, TugasDAO extend BaseDAO) |
+| **🎭 Polymorphism** | Method overloading and overriding for flexible operations | DAO classes (getTugas(), getTugas(kodeMK), getTugas(idUser)) |
+| **🎨 Abstraction** | Interfaces and abstract classes hide complex implementation | DAO interfaces, Abstract Form classes |
+
+---
+
+### 📦 Design Patterns Applied
+
+| Pattern | Purpose | Implementation |
+|---------|---------|----------------|
+| **DAO (Data Access Object)** | Separates business logic from data access | `entity` package for models, `dao_entity` for database operations |
+| **MVC (Model-View-Controller)** | Separates data, UI, and logic | Model: `entity` + `dao_entity`, View: `form`, Controller: business logic in forms |
+| **Singleton** | Single instance of database connection | `database_utility.java` ensures one DB connection |
+
+---
+
+### ✨ Benefits
+
+| Benefit | Description |
+|---------|-------------|
+| **Maintainability** 🔧 | Easy to locate bugs, changes isolated to specific classes |
+| **Scalability** 📈 | New features added without affecting existing code |
+| **Reusability** ♻️ | Common code in base classes, entity classes reused across forms |
+| **Security** 🔒 | Data protected through encapsulation, controlled access |
+| **Team Collaboration** 👥 | Clear separation allows parallel development |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="left">
