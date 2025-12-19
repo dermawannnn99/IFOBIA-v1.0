@@ -10,7 +10,7 @@
 [![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-**A comprehensive academic information management system designed specifically for Class B Informatics students**
+**A comprehensive academic information management system designed specifically for Class B Informatics Students**
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Team](#-team) • [Documentation](#-documentation)
 
